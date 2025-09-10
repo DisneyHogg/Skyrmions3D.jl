@@ -83,5 +83,6 @@ Future work on the package shall focus on allowing modifications to the Skyrme a
 
 
 The research of LDH is supported by a UK Engineering and Physical Sciences Research Council (EPSRC) doctoral prize fellowship.
+The research of CGC is supported by the EPSRC Doctoral Training Partnership ["Geometry and Dynamics of Topological Solitons"](https://gtr.ukri.org/projects?ref=studentship-2650914).
 
 # References
